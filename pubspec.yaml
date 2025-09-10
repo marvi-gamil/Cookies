@@ -1,0 +1,54 @@
+name: food_delivery
+description: "A new Flutter project." 
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+ 
+dependencies:
+  flutter:
+    sdk: flutter
+  curved_navigation_bar: ^1.0.3
+  sqflite: ^2.2.8+4
+  path: ^1.8.3
+  provider: ^6.0.5
+  rename: ^3.1.0
+
+
+ 
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+  flutter_lints: ^5.0.0
+
+ 
+flutter:
+  fonts:
+    - family: Pacifico-Regular
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf
+
+ 
+  uses-material-design: true
+
+  assets:
+    - assets/images/OnBoard.png
+    - assets/images/HomeBackground.jpg
+    - assets/images/CookieChip.jpg
+    - assets/images/PeanutButter.jpg
+    - assets/images/OatmealRaisin.jpg
+    - assets/images/DoubleChocolate.jpg
+    - assets/images/WhiteChocolateMacadamia.jpg
+    - assets/images/RedVelvet.jpg
+    - assets/images/Snickerdoodle.jpg
+    - assets/images/BirthdayCake.jpg
+    - assets/images/SignUp.jpg
+    - assets/images/user_avatar.jpg
+
+
+ 
