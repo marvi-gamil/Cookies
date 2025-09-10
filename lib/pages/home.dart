@@ -104,8 +104,7 @@ class _HomeState extends State<Home> {
                     ),
                     GestureDetector(
                       onTap: () {
-                        if (widget.setPage != null)
-                          widget.setPage!(1); // OrdersPage index
+                        if (widget.setPage != null) widget.setPage!(1);
                       },
                       child: Stack(
                         children: [

@@ -278,7 +278,7 @@ class _WalletPageState extends State<WalletPage> {
                         ),
                       ),
                       onPressed: () {
-                        widget.setPage?.call(0); // العودة للـ Home
+                        widget.setPage?.call(0);
                       },
                       child: const Text(
                         "Continue Shopping",

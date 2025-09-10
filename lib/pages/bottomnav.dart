@@ -28,10 +28,8 @@ class _BottomNavState extends State<BottomNav> {
     super.initState();
     _pages = [
       Home(setPage: setPage),
-      OrdersPage(setPage: setPage), // <-- هنا
-      WalletPage(
-        setPage: setPage,
-      ), // <-- اختياري لو عايزة تتحكم في الانتقال من Wallet
+      OrdersPage(setPage: setPage),
+      WalletPage(setPage: setPage),
       ProfilePage(),
     ];
   }

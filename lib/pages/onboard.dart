@@ -38,7 +38,6 @@ class _OneBoardState extends State<OneBoard> {
 
             const SizedBox(height: 20.0),
 
-            // Subtitle
             Text(
               'Order your favorite cookies\nanytime, anywhere 🍪',
               textAlign: TextAlign.center,
@@ -47,7 +46,6 @@ class _OneBoardState extends State<OneBoard> {
 
             const SizedBox(height: 60.0),
 
-            // ✅ Get Started Button (navigates to Signup)
             GestureDetector(
               onTap: () {
                 Navigator.push(

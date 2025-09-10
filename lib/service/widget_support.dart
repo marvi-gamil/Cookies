@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 class AppWidget {
   static TextStyle HeadLineTextFieldstyle() {
     return const TextStyle(
-      color: Color.fromARGB(255, 0, 0, 0), // Blue (logo color)
+      color: Color.fromARGB(255, 0, 0, 0),
       fontSize: 25.0,
       fontFamily: 'Pacifico-Regular',
       fontWeight: FontWeight.bold,
