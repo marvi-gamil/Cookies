@@ -17,7 +17,7 @@ A mobile application built with **Flutter** to browse and shop for different typ
 ## 🖼️ Screenshots
 > *(Add your screenshots here)*  
 Example:  
-![Screenshot](assets/screenshots/home.png)  
+![Screenshot](assets/screenshots/)  
 
 ---
 
