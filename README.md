@@ -1,16 +1,35 @@
-# food_delivery
+ # 🍪 Cookies App  
 
-A new Flutter project.
+A mobile application built with **Flutter** to browse and shop for different types of cookies with a clean and attractive user interface.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🛍️ Browse different types of cookies with images and prices  
+- 🔍 Search for cookies easily  
+- ➕ Add products to cart  
+- ❤️ Save favorites  
+- 🛒 Cart page with order details  
+- 🎨 Responsive UI with beautiful design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshots
+> *(Add your screenshots here)*  
+Example:  
+![Screenshot](assets/screenshots/home.png)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
+- State Management: Provider / GetX (if used)  
+- Material Design Widgets  
+
+---
+
+## 🚀 Getting Started
+1. Make sure Flutter is installed:  
+   ```bash
+   flutter --version
